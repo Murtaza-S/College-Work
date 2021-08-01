@@ -1,0 +1,27 @@
+I am agent 4 and my leader is 1.
+I am agent 3 and my leader is 1.
+I am agent 5 and my leader is 1.
+I am agent 9 and my leader is 1.
+I am agent 1 and I am the leader.
+I am agent 14 and my leader is 1.
+I am agent 7 and my leader is 1.
+I am agent 12 and my leader is 1.
+I am agent 2 and my leader is 1.
+I am agent 6 and my leader is 1.
+I am agent 13 and my leader is 1.
+I am agent 8 and my leader is 1.
+
+I am leader 1 and the sum of nodes is : 84
+
+I am agent 7 and I am going to terminate.
+I am agent 6 and I am going to terminate.
+I am agent 14 and I am going to terminate.
+I am agent 1 and I am going to terminate.
+I am agent 2 and I am going to terminate.
+I am agent 9 and I am going to terminate.
+I am agent 8 and I am going to terminate.
+I am agent 12 and I am going to terminate.
+I am agent 13 and I am going to terminate.
+I am agent 3 and I am going to terminate.
+I am agent 5 and I am going to terminate.
+I am agent 4 and I am going to terminate.

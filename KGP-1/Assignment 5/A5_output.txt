@@ -1,0 +1,17 @@
+I am  agent 9 and my leader is 2
+I am  agent 5 and my leader is 2
+I am  agent 2 and my leader is 2
+I am  agent 4 and my leader is 2
+I am  agent 7 and my leader is 2
+I am  agent 6 and my leader is 2
+I am  agent 8 and my leader is 2
+
+I am leader 2 and the sum of IDs of agents is 41
+
+I am agent 6 and i am going to terminate
+I am agent 2 and i am going to terminate
+I am agent 8 and i am going to terminate
+I am agent 4 and i am going to terminate
+I am agent 7 and i am going to terminate
+I am agent 5 and i am going to terminate
+I am agent 9 and i am going to terminate

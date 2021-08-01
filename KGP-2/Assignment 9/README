@@ -1,0 +1,13 @@
+README :
+
+The python version used is 3
+
+Command to run the file :
+
+python3 Task.py
+
+The input is taken in the manner that only the movie name is required to enter with year:
+
+format : <name> (<year>)
+
+And the movei information as per convinience is displayed.

@@ -1,0 +1,15 @@
+Part 1 completed.
+	Command for Server : gcc server.c -o s
+			   : ./s <port no>
+			   
+	Command for Client : gcc client.c -o c
+			   : ./c <port no>
+			   
+Part 2 : (only write X part over, Evaluate X pseudo code).
+	Command for Server : g++ server.cpp -o s
+			   : ./s <port no>
+			   
+	Command for Client : g++ client.cpp -o c
+			   : ./c <port no>
+			   
+
